@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6faWjQ4mApa9SIQwhs9ctpR0ASU0NFRAET2n46L+igc=",
+  "Source": "CSV_Parser",
+  "BasePath": "_content/CSV_Parser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
