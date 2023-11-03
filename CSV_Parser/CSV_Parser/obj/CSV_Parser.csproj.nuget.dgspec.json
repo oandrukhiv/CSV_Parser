@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\repos\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\repo\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\repos\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj": {
+    "C:\\Users\\Admin\\Desktop\\repo\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\repos\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\repo\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj",
         "projectName": "CSV_Parser",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\repos\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\repo\\CSV_Parser\\CSV_Parser\\CSV_Parser.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\repos\\CSV_Parser\\CSV_Parser\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\repo\\CSV_Parser\\CSV_Parser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

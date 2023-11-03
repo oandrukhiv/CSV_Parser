@@ -8,7 +8,7 @@
         [DataNames("tpep_dropoff_datetime")]
         public DateTime DropoffDatetime { get; set; }
         [DataNames("passenger_count")]
-        public int PassengerCount { get; set; }
+        public int? PassengerCount { get; set; }
         [DataNames("trip_distance")]
         public double TripDistance { get; set; }
         [DataNames("store_and_fwd_flag")]
