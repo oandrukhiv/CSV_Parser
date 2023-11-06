@@ -15,7 +15,7 @@ app.MapGet("/api/records", async (ApplicationContext db) => await db.Data.ToList
 app.MapGet("/api/records/{id:int}", async (int id, ApplicationContext db) =>
 {
     CSVData? data = await db.Data.FirstOrDefaultAsync(u => u.ID == id);
-    if (data == null) return Results.NotFound(new { message = "Немає такого запису" });
+    if (data == null) return Results.NotFound(new { message = "No records found" });
     return Results.Json(data);
 });
 
