@@ -30,7 +30,7 @@ namespace CSV_Parser
 
             return dt;            
         }
-        internal static void SeedData(ApplicationContext db, DataTable dt) 
+        public static void SeedData(ApplicationContext db, DataTable dt) 
         {
             IList<CSVData> items = dt.AsEnumerable().Select(row =>
                     new CSVData
