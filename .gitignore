@@ -1,0 +1,13 @@
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+bin/
+obj/
+Debug/
+CSV_Parser/.vs/CSV_Parser/DesignTimeBuild/.dtbcache.v2
+CSV_Parser/.vs/CSV_Parser/v17/.futdcache.v2
+CSV_Parser/.vs/CSV_Parser/config/applicationhost.config
+CSV_Parser/.vs/CSV_Parser/v17/TestStore/0/000.testlog
+CSV_Parser/.vs/CSV_Parser/v17/TestStore/0/testlog.manifest
